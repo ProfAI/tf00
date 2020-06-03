@@ -1,4 +1,4 @@
-student_id,sex,age,traveltime,studytime,failures,Medu,Fedu,paid,higher,internet,romantic,freetime,promoted
+student_id,sex,age,traveltime,studytime,failures,mother_edu,father_edu,paid,higher,internet,romantic,freetime,promoted
 0,0,18,2,2,0,4,4,0,1,0,0,3,0
 1,0,17,1,2,0,1,1,0,1,1,0,3,0
 2,0,15,1,2,3,1,1,1,1,1,0,3,1
